@@ -1,6 +1,12 @@
 *This project has been created as part of the 42 curriculum by sojetimi*
 
 # 🌐 NetPractice
+Router
+Switch
+Host/PC
+Internet
+Route page/table
+Gateway
 
 ## 📌 Description
 
